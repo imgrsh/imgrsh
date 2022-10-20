@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GIREESH KUMAR
 - 👀 I’m interested in AI AND MACHINE
-- 🌱 I’m currently learning ...B.Tech in Computer Science
+- 🌱 I’m currently pursuing ...B.Tech in Computer Science
  and Engineering
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me on imgrsh@pm.me
