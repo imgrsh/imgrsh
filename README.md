@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @imgrsh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...B.Tech CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m GIREESH KUMAR
+- 👀 I’m interested in AI AND MACHINE
+- 🌱 I’m currently learning ...B.Tech in Computer Science
+ and Engineering
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me on imgrsh@pm.me
 
 <!---
 imgrsh/imgrsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
